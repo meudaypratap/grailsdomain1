@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/
+GrailsGlobalPlugins.iml
+devDBhsqldb.default_table_type=cached.log
+devDBhsqldb.default_table_type=cached.properties
+grailsdomain1-grailsPlugins.iml
+grailsdomain1.iml
+grailsdomain1.ipr
+grailsdomain1.iws
+
