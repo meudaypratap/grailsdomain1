@@ -6,7 +6,7 @@ class Project {
     Company company
     Date dateCreated
     Date lastUpdated
-    //    Set<Employee> employees
+//    List<Employee> employees
 
     static belongsTo = [Employee, Company]
     static hasMany = [employees: Employee, tasks: Task]

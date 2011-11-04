@@ -16,6 +16,8 @@ class Employee {
     static hasMany = [projects: Project]
     static constraints = {
         email(unique: true)
+//        email(unique: 'company')
+//        email(unique: ['company','project'])
         password(size: 5..15, blank: false)
         salary(max: 1000000F)
     }
