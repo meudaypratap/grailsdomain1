@@ -8,4 +8,8 @@ grailsdomain1-grailsPlugins.iml
 grailsdomain1.iml
 grailsdomain1.ipr
 grailsdomain1.iws
-
+web-app/WEB-INF
+target
+.idea/
+Grailsdomain1-grailsPlugins.iml
+Grailsdomain1.iml
